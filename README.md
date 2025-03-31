@@ -1,0 +1,1 @@
+if you run this shit you deserve it its a fucking fork bomb do not run this
