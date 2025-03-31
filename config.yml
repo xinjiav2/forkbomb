@@ -1,0 +1,18 @@
+title: Yes
+description: "Yes"
+owner_name: Zhengji Li
+github_username: xinjiav2
+github_repo: "forkbomb"
+baseurl: "/forkbomb"
+future: true
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  social_links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/xinjiav2"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+header_pages:
